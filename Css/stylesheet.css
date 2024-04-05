@@ -584,7 +584,7 @@ body{
     transform:skewX(-20deg)
 }
 .pContainer > div > .p0{
-    background-color: #8c46ff;
+    background-color: rgb(31, 31, 159);
     border-radius: 1px;
 }
 .pContainer > div > .p1{
@@ -1271,4 +1271,3 @@ body{
     }
     100%{transform: translateX(calc(-100% + 1400px));}
 }
-
